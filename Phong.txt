@@ -1,0 +1,7 @@
+p1;Deluxe;200000;4;1
+p2;Suite;300000;4;1
+p3;Superior;500000;4;1
+p4;Premier;1000000;2;1
+p6;Standard;50000;1;0
+p7;Deluxe;300000;5;0
+p9;Standard;200000;2;1
